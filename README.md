@@ -15,7 +15,7 @@ Getting Started
 
 - Run the Streamlit app:streamlit run app.py
 
-🛠 Technologies Used
+ Technologies Used
 - Python
 - Streamlit
 - Pandas (Optional, for advanced data handling)
